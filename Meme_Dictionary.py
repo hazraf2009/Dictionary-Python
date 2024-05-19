@@ -4,6 +4,8 @@ meme_dict = {
             "SHEES" : "sedikit tidak kesetujuan",
             "CREEPY": "menakutkan, tidak menyenangkan",
             "AGGRO" : "untuk menjadi agresif/marah"
+            "NOOB" : "Orang orang yang tidak bagus/termpil dalam bermain suatu game/aktivitas"
+            
             }
             
 for i in range(5);
